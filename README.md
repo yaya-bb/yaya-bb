@@ -1,22 +1,26 @@
 ### **<div align="center">🚀Welcome to yay-bb Zone</div>**  
-  
+<link rel="stylesheet" type="text/css" href="./beautiful.css">
+
 
 - 🌱 I’m currently learning Typescript/Vue3...  
   
-
 - 💬 Ask me about about any quesition about repos or directly git me a issue/pr~  
   
-
 -  📫 How to reach me: 2286834433@qq.com  
-
 
 -  📩 wechat： JY-11007
   
-
 <br/>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true)
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&theme=dark&layout=compact" alt="Top Langs"/>
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true&theme=dark" alt="yaya-bb's GitHub stats" height=160/>
+    </td>
+  </tr>
+ </table>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
