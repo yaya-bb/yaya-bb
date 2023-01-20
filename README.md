@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&theme=dark&layout=compact" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&theme=dark&layout=compact" alt="Top Langs" height=160/>
     </td>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true&theme=dark" alt="yaya-bb's GitHub stats" height=160/>
