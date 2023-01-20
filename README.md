@@ -19,8 +19,10 @@
   
 
 <br/>  
-
-
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&layout=compact)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true)
+-->
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
 
@@ -38,4 +40,3 @@
 </table>  
 
 <br/>  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yay-bb&layout=compact)](https://github.com/yaya-bb/yaya-bb)
