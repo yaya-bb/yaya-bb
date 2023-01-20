@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### **<div align="center">🚀Welcome to yay-bb Zone</div>**  
   
 
@@ -19,10 +14,10 @@
   
 
 <br/>  
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&layout=compact)
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true)
--->
+
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
 
