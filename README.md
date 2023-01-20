@@ -1,6 +1,4 @@
-### **<div align="center">🚀Welcome to yay-bb Zone</div>**  
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
-
+# **<div align="center">🚀Welcome to yay-bb Zone</div>**  
 
 - 🌱 I’m currently learning Typescript/Vue3...  
   
@@ -11,16 +9,12 @@
 -  📩 wechat： JY-11007
   
 <br/>  
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&theme=dark&layout=compact" alt="Top Langs" height=160/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true&theme=dark" alt="yaya-bb's GitHub stats" height=160/>
-    </td>
-  </tr>
- </table>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaya-bb&layout=compact" alt="Top Langs" height=160 style="border:0"/>
+</span>
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaya-bb&show_icons=true" alt="yaya-bb's GitHub stats" height=160/>
+</span>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%">
