@@ -4,7 +4,7 @@
   
 - 💬 Ask me about about any quesition about repos or directly git me a issue/pr~  
   
--  📫 How to reach me: 2286834433@qq.com  
+-  📫 How to reach me: zhoujieyu_web@163.com
 
 -  📩 wechat： JY-11007
   
