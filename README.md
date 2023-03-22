@@ -1,6 +1,6 @@
 # **<div align="center">🚀Welcome to yay-bb Zone</div>**  
 
-- 🌱 I’m currently learning Typescript/Vue3...  
+- 🌱 I’m currently learning Typescript/Vue3/Nuxtjs...  
   
 - 💬 Ask me about about any quesition about repos or directly git me a issue/pr~  
   
