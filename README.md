@@ -6,7 +6,7 @@
   
 -  📫 How to reach me: zhoujieyu_web@163.com
 
--  📩 wechat： JY-11007
+-  📩 wechat：JY-11007
 -  🙌🏼 blog：[Blog Links~](https://www.yuque.com/u25267467/rw5ivs)
   
 <br/>  
